@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> eu te amo eu mesmo </h1>;
+  return <h1>funciona!</h1>;
 }
 
 function teste() {
